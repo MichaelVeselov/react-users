@@ -4,4 +4,4 @@
 
 ### App Users, using React + Vite
 
-![Users](screenshot/quiz.png 'Users')
+![Users](screenshot/users.png 'Users')
