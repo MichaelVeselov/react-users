@@ -1,8 +1,8 @@
 const User = (props) => {
   const { id, email, first_name, last_name, avatar, onClickInvitation, isInvited } = props;
 
-  const plusImg = '../../../public/assets/plus.svg';
-  const minusImg = '../../../public/assets/minus.svg';
+  const plusImg = 'assets/plus.svg';
+  const minusImg = 'assets/minus.svg';
 
   return (
     <li>
